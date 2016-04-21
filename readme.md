@@ -9,7 +9,7 @@ Quick and dirty Python script to turn [this table](https://www.ttb.gov/foia/xls/
 ```shell
 $ virtualenv /path/to/repo
 $ cd /path/to/repo
-$ pip install -r requirements.txt
 $ source bin/activate
+$ pip install -r requirements.txt
 $ python scrape.py
 ```
