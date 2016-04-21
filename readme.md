@@ -1,6 +1,6 @@
 # Distillery license scraper
 
-Quick and dirty Python script to turn [this table](https://www.ttb.gov/foia/xls/frl-spirits-producers-and-bottlers.htm) into a JSON blob.
+Quick and dirty Python script to turn [this table](https://www.ttb.gov/foia/xls/frl-spirits-producers-and-bottlers.htm) into a JSON blob. Clone the repo, then:
 
 ### Requirements
 * virtualenv
